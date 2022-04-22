@@ -1,0 +1,17 @@
+1. 
+//--
+//---Add sys
+import React from "react";
+import {View} from 'react-native';
+//--
+//---Add project
+
+//--
+//---Add content
+
+2.install:
+    npm install mongodb
+    npm install mongoose --save
+    //***
+3.
+4.
